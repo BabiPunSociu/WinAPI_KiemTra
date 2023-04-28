@@ -1,0 +1,2 @@
+C:\Users\ADMIN\OneDrive\Máy tính\KiemTra1\x64\Debug\KiemTra1.exe
+C:\Users\ADMIN\source\Hoc_API\Hoc_WinAPI\KiemTra1\x64\Debug\KiemTra1.exe
